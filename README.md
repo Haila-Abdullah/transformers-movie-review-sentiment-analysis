@@ -69,10 +69,8 @@ The model achieved the following accuracy:
 
 | Evaluation Metric | Accuracy |
 |---|---:|
-| Validation Accuracy | 76.52% |
+| Final Validation Accuracy | 79.12% |
 | Test Accuracy | 77.60% |
-
-The final test accuracy was **77.60%**, exceeding the project's target of 75%.
 
 ## Project Structure
 
